@@ -11,7 +11,7 @@
  </tr>
 </table>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishizaka-K&layout=donut-vertical&bg_color=020826,070842,1a0742" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishizaka-K&layout=donut-vertical&bg_color=0c30b0,1486de,3f0bb8" />
 </a>
 
 
