@@ -8,13 +8,12 @@
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishizaka-K&hide_border=true&show_icons=true&layout=donut-vertical&text_color=f5f5f2&title_color=f5f5f2&bg_color=69,231557,44107A,FF1361,FFF800&locale=ja&custom_title=使用言語割合&hide=LLVM&langs_count=4" />
      </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishizaka-K&hide_border=true&show_icons=true&layout=donut-vertical&text_color=f5f5f2&title_color=f5f5f2&bg_color=69,22E1FF,1D8FE1,625EB1,625EB1&locale=ja&custom_title=使用言語割合&hide=LLVM&langs_count=4" />
-     </a>
-     
+
 
      <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishizaka-K&hide_border=true&show_icons=true&layout=donut-vertical&text_color=f5f5f2&title_color=f5f5f2&bg_color=69,231557,44107A,FF1361,FFF800&locale=ja&custom_title=使用言語割合&hide=LLVM&langs_count=4" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishizaka-K&hide_border=true&show_icons=true&layout=donut-vertical&text_color=f5f5f2&title_color=f5f5f2&bg_color=69,AC32E4,44107A,FF1361,FFF800&locale=ja&custom_title=使用言語割合&hide=LLVM&langs_count=4" />
      </a>
 
      
