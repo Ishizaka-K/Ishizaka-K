@@ -10,7 +10,8 @@
     <td>Lorem ipsum ...</td>
  </tr>
 </table>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishizaka-K&count_private=true&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ishizaka-K&count_private=true&show_icons=true" />
+</a>
 
 
