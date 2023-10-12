@@ -1,5 +1,8 @@
 
 # Ishizaka_Kent
+
+改修作業中…
+
 <table border="0">
  <tr>
     <td>Lorem ipsum ...</td>
