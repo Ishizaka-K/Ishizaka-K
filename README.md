@@ -11,7 +11,7 @@
  </tr>
 </table>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ishizaka-K&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizaka-K&theme=cobalt" />
 </a>
 
 
