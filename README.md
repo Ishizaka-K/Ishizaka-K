@@ -11,6 +11,6 @@
  </tr>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishizaka-Kcount_private=true&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishizaka-K&count_private=true&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
