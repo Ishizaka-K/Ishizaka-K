@@ -1,6 +1,4 @@
 
-# Ishizaka_Kent
-
 改修作業中…
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
