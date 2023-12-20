@@ -9,7 +9,9 @@
 <th>
 <h2 align="left">About me</h3><p align="left">  
 <p align="left">I am a YOWAYOWA Programmer living in Fukuoka!</p>
-<h3 align="left">Connect with me:</h3><p align="left">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://qiita.com/I-Kent" target="blank"><img align="center" src="https://github.com/Ishizaka-K/Ishizaka-K/assets/88181071/62483cc1-9f49-4f46-a195-85ca3a4f6539" alt="I-Kent" height="30" width="30" /></a>
 <a href="https://twitter.com/ikent1mm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ikent1mm" height="30" width="40" /></a>
 <a href="https://instagram.com/ikent1mm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ikent1mm" height="30" width="40" /></a>
 </p>
