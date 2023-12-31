@@ -1,4 +1,4 @@
-<h1 align="center">Ishizaka Kent  -  石坂 建人</h1>
+<h1 align="center">Ishizaka Kent  -  石坂 建人 </h1>
 <table border="0" rules="none">
 <tr>
 <th>
