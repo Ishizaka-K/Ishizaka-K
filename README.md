@@ -8,7 +8,7 @@
 </th>
 <th>
 <h2 align="left">About me</h3><p align="left">  
-<p align="left">I am a YOWAYOWA Programmer living in Fukuoka!</p>
+<p align="left">I am a YOWAYOWA Programmer living in Fukuoka</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://qiita.com/I-Kent" target="blank"><img align="center" src="https://github.com/Ishizaka-K/Ishizaka-K/assets/88181071/62483cc1-9f49-4f46-a195-85ca3a4f6539" alt="I-Kent" height="30" width="30" /></a>
